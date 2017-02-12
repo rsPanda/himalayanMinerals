@@ -14,7 +14,7 @@
 
 <body>
 <h1>
-    Hello
+    Hello from Git
 </h1>
 </body>
 </html>
