@@ -13,7 +13,7 @@
 
 <body>
 <div>
-    <b>rsPanda and nsky-2 Trying out GIT.</b>
+    <b>rsPanda and nsky-2 and parub22 Trying out GIT.</b>
 </div>
 
 </body>
