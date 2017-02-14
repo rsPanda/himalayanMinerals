@@ -12,6 +12,6 @@
 </head>
 
 <body>
-    this is the new page
+    this is the new page of check
 </body>
 </html>
